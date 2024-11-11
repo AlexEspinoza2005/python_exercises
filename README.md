@@ -13,10 +13,6 @@ This repository serves as an interactive way to learn Python programming with a 
 
 Explore these exercises to understand Turtle graphics and create visually engaging Python projects!
 
-## Requirements
-
-To run these exercises, you’ll need:
-
 - **Python 3.x**: Make sure Python is installed on your computer. Download it from [python.org](https://www.python.org/).
 - **Turtle Graphics Library**: This library is included by default with Python, so no additional installation is needed.
 ## Usage
