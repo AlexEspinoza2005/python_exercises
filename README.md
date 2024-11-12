@@ -16,6 +16,4 @@ Explore these exercises to understand Turtle graphics and create visually engagi
 - **Python 3.x**: Make sure Python is installed on your computer. Download it from [python.org](https://www.python.org/).
 - **Turtle Graphics Library**: This library is included by default with Python, so no additional installation is needed.
 ## Usage
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/python-turtle-shapes-exercises.git
+
